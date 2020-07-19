@@ -1,0 +1,15 @@
+.phone-number{
+
+    -webkit-tap-highlight-color: rgba(0, 0, 0, 0);
+    -webkit-box-direction: normal;
+    box-sizing: border-box;
+    outline: none;
+    color: inherit;
+    font: inherit;
+    margin: 0;
+    line-height: normal;
+    padding: 9px 30px 9px 50px;
+    width: 100%;
+    border: none;
+    background-color: transparent;
+}
